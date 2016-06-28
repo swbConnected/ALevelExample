@@ -1,0 +1,23 @@
+{
+  "name": "alevel",
+  "version": "0.0.1",
+  "description": "An example A Level coursework app",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swbConnected/ALevelExample.git"
+  },
+  "keywords": [
+    "example",
+    "alevel"
+  ],
+  "author": "Simon Balderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swbConnected/ALevelExample/issues"
+  },
+  "homepage": "https://github.com/swbConnected/ALevelExample#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
